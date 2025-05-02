@@ -32,11 +32,6 @@ Also depending on the difficulty you had chosen you can either jump horizontally
 - Jump over Pegs vertically and horizontally only
 - Last Peg must end on the middle board
 
-## Play version with colored graphics
-The windows, mac, (self build) linux and html (web assembly) versions can switch out the default funkey graphics with colored graphics if you press the F3 button on the keyboard or the X Button on your (xbox) gamepad. 
-The game will restart with the next source folder and remember which source folder you are using the next time you start the game.
-
-
 ### Tools used:
 * 32blit sdk - [https://github.com/32blit/32blit-sdk/](https://github.com/32blit/32blit-sdk/)
 * Visual Studio Code - [https://code.visualstudio.com/](https://code.visualstudio.com/)
