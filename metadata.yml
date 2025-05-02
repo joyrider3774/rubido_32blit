@@ -1,0 +1,10 @@
+title: Rubido
+description: A Chinese Checkers / Peg Solitaire Game
+author: Willems Davy
+splash:
+  file: assets/image.png
+icon:
+  file: assets/icon.png
+version: v1.0.0
+category: game
+url: https://github.com/joyrider3774/rubido_32blit

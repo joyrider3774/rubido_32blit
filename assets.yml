@@ -1,0 +1,59 @@
+# All these assets will be created in assets.cpp, which CMake will
+# link automagically.
+# References can be picked up by including assets.hpp
+
+assets.cpp:
+  assets/font.ttf:
+    name: gamefont
+    height: 15
+  assets/selector.png:
+    name: selector
+    packed: false
+  assets/background.png:
+    name: background
+    packed: false
+  assets/credits.png:
+    name: credits
+    packed: false
+  assets/credits1.png:
+    name: credits1
+    packed: false
+  assets/credits2.png:
+    name: credits2
+    packed: false
+  assets/easy1.png:
+    name: easy1
+    packed: false
+  assets/hard1.png:
+    name: hard1
+    packed: false
+  assets/infoeasy.png:
+    name: infoeasy
+    packed: false
+  assets/infohard.png:
+    name: infohard
+    packed: false
+  assets/infoveryeasy.png:
+    name: infoveryeasy
+    packed: false
+  assets/infoveryhard.png:
+    name: infoveryhard
+    packed: false
+  assets/newgame1.png:
+    name: newgame1
+    packed: false
+  assets/newgame2.png:
+    name: newgame2
+    packed: false
+  assets/peg.png:
+    name: peg
+    packed: false
+  assets/titlescreen.png:
+    name: titlescreen
+    packed: false
+  assets/veryeasy1.png:
+    name: veryeasy1
+    packed: false
+  assets/veryhard1.png:
+    name: veryhard1
+    packed: false                                    
