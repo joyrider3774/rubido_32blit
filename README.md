@@ -1,4 +1,4 @@
-# Waternet (32blit) Multiplatform Retro Game
+# Rubido (32blit)
 This is the 32blit version of my Rubido game which is a little chinese checkers or solitaire game with four difficulties. This version is a port of the funkey version, which was a port of the gp2x version.
 
 ## Controls
